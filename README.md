@@ -16,3 +16,12 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+202604-D2 Business Intelligence - Labs Group Memnbers
+
+152701 - Sammy Bett 
+153845 - Grace Wambugu 
+167253 - Sandra Mbithi 
+168330 - Nicole Monari 
+169388 - Laura Limo 
+
