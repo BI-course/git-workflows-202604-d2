@@ -65,6 +65,11 @@ Location (Nairobi)
 
 Date Dimension
 Day, Month, Year
+
+Example in real life:
+On 5th January 2024, Naivas Westlands sold 3 bottles of Coca-Cola for KES 300.
+
+That single sale is stored in the fact table, while details like product, store, and date come from dimension tables.
  
 Why Do People Use Star Schemas?
 The main reason is simplicity and speed. When a business analyst wants to run
