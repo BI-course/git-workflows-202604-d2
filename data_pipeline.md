@@ -55,7 +55,7 @@ before loading (e.g., masking PII, filtering illegal fields), and a
 second, more complex transformation occurs inside the warehouse.
 
 **Process:**
-1. **Extract** – Raw data is pulled from source systems
+1. **Extract** –  The Raw data is pulled from source systems . mm
 2. **transform** – A minimal transformation strips or masks sensitive
    fields (lowercase "t" = lightweight, not full restructuring)
 3. **Load** – Partially cleaned data enters the warehouse
