@@ -9,7 +9,7 @@ it (called dimension tables), connected like the points of a star.
  
 It's one of the most popular ways to design a data warehouse, which is just a
 big storage system that companies use to keep all their historical data for
-decision-making.
+decision making.
  
 The Two Main Parts:
  
@@ -38,6 +38,33 @@ The Two Main Parts:
    - Customer Dimension: customer name, age, location, gender
    - Store Dimension: store name, city, region, country
  
+ Real life example:
+Supermarket Sales System
+A supermarket uses a star schema to analyze sales.
+
+Fact Table: Sales
+
+Stores measurable transactions:
+Sale_ID
+Product_ID
+Store_ID
+Date_ID
+Quantity_Sold
+Total_Amount
+
+Dimension Tables:
+
+Product Dimension
+Product name (e.g., Coca-Cola)
+Category (drinks)
+Brand
+
+Store Dimension
+Store name (e.g., Naivas Westlands)
+Location (Nairobi)
+
+Date Dimension
+Day, Month, Year
  
 Why Do People Use Star Schemas?
 The main reason is simplicity and speed. When a business analyst wants to run
@@ -70,6 +97,7 @@ Disadvantages
 - Data can be slightly redundant in dimension tables
 - Not ideal for highly complex or deeply normalized data needs
 - Less storage-efficient compared to snowflake schemas
+ 
  
  
 Conclusion
