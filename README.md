@@ -20,12 +20,18 @@ Refer to the files in the order specified below for more details:
 
 202604-D2 Business Intelligence - Labs Group Memnbers
 
-Project lead: Member 4 — responsible for overall coordination.
-
 152701 - Sammy Bett 
 153845 - Grace Wambugu 
 167253 - Sandra Mbithi 
 168330 - Nicole Monari 
 169388 - Laura Limo 
 
+Member 1(Laura Limo) - Updates the project's README.md file with the team roles. 50% complete milestone
 
+Member 2(Sandra Mbithi) - Creates a data_source.md file and reviews sources of data in a business. 50% complete milestone
+
+Member 3(Nicole Monari) - Creates a warehouse_schema.md file and describes a Star Schema. 50% complete milestone
+
+Member 4(Grace Wambugu) - Creates a data_pipeline.md file and differentiates between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry. 75% complete milestone
+
+Member 5(Sammy Bett) - Adds a governance.md file and reviews data governance and access to PII. 100% complete milestone
