@@ -20,7 +20,7 @@ Refer to the files in the order specified below for more details:
 
 202604-D2 Business Intelligence - Labs Group Memnbers
 
-152701 - Sammy Bett 
+152569 - Patriciah Mbua 
 153845 - Grace Wambugu 
 167253 - Sandra Mbithi 
 168330 - Nicole Monari 
@@ -34,4 +34,12 @@ Member 3(Nicole Monari) - Creates a warehouse_schema.md file and describes a Sta
 
 Member 4(Grace Wambugu) - Creates a data_pipeline.md file and differentiates between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry. 75% complete milestone
 
-Member 5(Sammy Bett) - Adds a governance.md file and reviews data governance and access to PII. 100% complete milestoneProject lead: Member 5 — responsible for governance and audit.
+Member 5(Patriciah Mbua) - Adds a governance.md file and reviews data governance and access to PII. 100% complete milestoneProject lead: Member 5 — responsible for governance and audit.
+
+The image below shows the merge conflict encountered by member 5
+![alt text](<Merge Conflict.jpeg>)
+
+The image below shows the merge conflict resolved by member 5
+![alt text](<Merge Conflict Resolved.jpeg>)
+
+Point to Note: I deleted the duplicate feature: feature/lab-1/Update-the-README-with-team-roles from the local branch and remote.
